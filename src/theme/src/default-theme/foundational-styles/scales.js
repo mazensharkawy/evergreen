@@ -40,7 +40,7 @@ export default {
 
     // Transparent variants.
     B1A: 'rgba(16, 112, 202, 0.04)',
-    B2A: '#604cd5',
+    B2A: 'rgba(234,231,246,0.6)',
     B3A: 'rgba(16, 112, 202, 0.09)',
     B4A: 'rgba(16, 112, 202, 0.14)',
     B5A: 'rgba(16, 112, 202, 0.3)',
