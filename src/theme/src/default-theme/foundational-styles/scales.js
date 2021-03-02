@@ -12,7 +12,7 @@ export default {
     N6: '#A6B1BB',
     N7: '#7B8B9A', // Large Text AA
     N8: '#66788A', // Normal Text AA
-    N9: '##000000', // Normal Text AAA
+    N9: '#000000', // Normal Text AAA
     N10: '#000000', // Normal Text AAA
 
     // Transparent variants.

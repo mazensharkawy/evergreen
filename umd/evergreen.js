@@ -4049,7 +4049,7 @@ var scales = {
     // Large Text AA
     N8: '#66788A',
     // Normal Text AA
-    N9: '##000000',
+    N9: '#000000',
     // Normal Text AAA
     N10: '#000000',
     // Normal Text AAA

@@ -336,7 +336,7 @@ storiesOf('dialog', module)
             >
               <Pane width="25%" height={160} backgroundColor="#F9F9FB" />
               <Pane width="25%" height={160} backgroundColor="#E4E7EB" />
-              <Pane width="25%" height={160} backgroundColor="##000000" />
+              <Pane width="25%" height={160} backgroundColor="#000000" />
               <Pane width="25%" height={160} backgroundColor="#000000" />
               <Pane width="25%" height={160} backgroundColor="#F7F9FD" />
               <Pane width="25%" height={160} backgroundColor="#DDEBF7" />
