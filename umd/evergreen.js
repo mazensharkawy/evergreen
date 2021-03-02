@@ -28567,7 +28567,8 @@ var SelectMenuContent = React.memo(function SelectMenuContent(props) {
     height: height,
     display: "flex",
     flexDirection: "column",
-    borderRight: hasDetailView ? 'muted' : null
+    borderRight: hasDetailView ? 'muted' : null,
+    borderRadius: 10
   }, hasTitle && titleView({
     close: close,
     title: title,
