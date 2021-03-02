@@ -69,7 +69,6 @@ const SelectMenuContent = memo(function SelectMenuContent(props) {
         display="flex"
         flexDirection="column"
         borderRight={hasDetailView ? 'muted' : null}
-        borderRadius={10}
       >
         {hasTitle && titleView({ close, title, headerHeight })}
         {options.length === 0 && hasEmptyView ? (

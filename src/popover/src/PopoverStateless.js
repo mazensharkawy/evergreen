@@ -12,6 +12,7 @@ const PopoverStateless = memo(
         elevation={3}
         overflow="hidden"
         minWidth={200}
+        borderRadius={10}
         backgroundColor="white"
         ref={ref}
         {...rest}

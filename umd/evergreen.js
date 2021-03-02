@@ -23067,6 +23067,7 @@ var PopoverStateless = React.memo(React.forwardRef(function PopoverStateless(pro
     elevation: 3,
     overflow: "hidden",
     minWidth: 200,
+    borderRadius: 10,
     backgroundColor: "white",
     ref: ref
   }, rest), children);
@@ -28567,8 +28568,7 @@ var SelectMenuContent = React.memo(function SelectMenuContent(props) {
     height: height,
     display: "flex",
     flexDirection: "column",
-    borderRight: hasDetailView ? 'muted' : null,
-    borderRadius: 10
+    borderRight: hasDetailView ? 'muted' : null
   }, hasTitle && titleView({
     close: close,
     title: title,
